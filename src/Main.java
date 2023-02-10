@@ -34,5 +34,6 @@ public class Main {
         Employee aKot = new Employee("Alfred","Kot",LocalDate.of(1988,2,22),"kochammame123$");
         Employee mJackson = new Employee("Michael","Jackson",LocalDate.of(1988,6,2),"program1@");
         Employee sZakolski = new Employee("Stanisław","Zakolski",LocalDate.of(2001,1,27),"1!zakolski");
+        Employee sKrupa = new Employee("Sabina","Krupa",LocalDate.of(2002,1,22),"krupnik55@");
     }
 }
